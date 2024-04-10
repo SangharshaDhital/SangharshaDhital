@@ -3,7 +3,7 @@ readme.html
 
 <h1 align="center">Hi 👋, I'm Sangharsha Dhital</h1>
 <h3 align="center">A passionate Software Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangharshadhital&label=Profile%20views&color=0e75b6&style=flat" alt="sangharshadhital" /> </p>
 
 - 💬 Ask me about **Java, JS, C, C++**
