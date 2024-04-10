@@ -8,7 +8,7 @@ I am a passionate Software Developer from **Nepal**, currently living in the **B
 
 - 💬 Ask me about **Java, JS, C, C++**
 - 📫 Reach me at: [dhitalsangharsha@gmail.com](mailto:dhitalsangharsha@gmail.com)
-//- 🌍 Visit my website: [sangharshadhital.io](https://sangharshadhital.io)
+<!-- 🌍 Visit my website: [sangharshadhital.io](https://sangharshadhital.io)-->
 
 ### Connect with me:
 
