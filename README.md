@@ -1,5 +1,4 @@
-readme.html
-[![MasterHead]("[C:\Users\User\Downloads\banner github.gif](https://user-images.githubusercontent.com/125123604/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif)")](https://sangharshadhital.io)
+[![MasterHead]("[C:\Users\User\Downloads\banner github.gif]471)]"(https://sangharshadhital.io)
 
 <h1 align="center">Hi 👋, I'm Sangharsha Dhital</h1>
 <h3 align="center">A passionate Software Developer</h3>
