@@ -33,10 +33,7 @@ I am a passionate Software Developer from **Nepal**, currently living in the **B
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
 
-### GitHub Stats:
+ ### GitHub Stats:
 
-<!-- Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact)
-
-<!-- GitHub Contribution Calendar -->
-<img src="https://github-contributions-api.deno.dev/sangharshadhital.svg" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital)
