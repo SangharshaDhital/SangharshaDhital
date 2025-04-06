@@ -36,5 +36,4 @@ I am a passionate Software Developer from **Nepal**, currently living in the **B
 ### GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital&hide_longest_streak=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital&hide_longest_streak=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital) 
