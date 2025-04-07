@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m a passionate developer from **Nepal**, currently based in the **Bay Area, California**  
+- 🔭 I’m a passionate developer , currently based in the **Bay Area, California**  
 - 💻 I work mostly with **Java, JavaScript, C, and C++**
 - 💬 Ask me about **Java, JS, C, C++**
 - 📫 Reach me at: [dhitalsangharsha@gmail.com](mailto:dhitalsangharsha@gmail.com)
