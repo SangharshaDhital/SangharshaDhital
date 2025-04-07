@@ -47,10 +47,12 @@
 ---
 
 ### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak (Simplified)"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/ec8e3e01-5608-4870-a6c4-b175b5ab9eaf" alt="Logo Left" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact" alt="Top Languages" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+ 
 
+
+  
