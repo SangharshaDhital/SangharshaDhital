@@ -1,6 +1,4 @@
-# [![MasterHead](https://user-images.githubusercontent.com/125123604/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif)](https://sangharshadhital.io)
-
-<h1 align="center">Hi there, I'm Sangharsha Dhital 👋</h1>
+<!--# [![MasterHead](https://user-images.githubusercontent.com/125123604/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif)](https://sangharshadhital.io)--><h1 align="center">Hi there, I'm Sangharsha Dhital 👋</h1>
 <h3 align="center">Software Developer | Java Enthusiast | Tech Explorer | Creative Coder</h3>
 
 <p align="center">
@@ -47,12 +45,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec8e3e01-5608-4870-a6c4-b175b5ab9eaf" alt="Logo Left" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact" alt="Top Languages" height="200"/>
-  &nbsp;&nbsp;&nbsp;
- 
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/ec8e3e01-5608-4870-a6c4-b175b5ab9eaf" alt="Logo Left" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact" alt="Top Languages" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital" alt="GitHub Streak" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
 
 
   
