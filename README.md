@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangharshadhital&layout=compact" alt="Top Languages" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <p align="center">
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital&background=F5F5F5&ring=34C759&fire=34C759&currStreakNum=34C759&sideNums=34C759&sideLabels=34C759" alt="GitHub Streak" width="470" height="220" style="border-radius: 15px; border: 6px solid #333333; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4); background: linear-gradient(135deg, #f0f0f0, #e0e0e0);"/>
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshadhital&background=F5F5F5&ring=34C759&fire=34C759&currStreakNum=34C759&sideNums=34C759&sideLabels=34C759" alt="GitHub Streak" width="470" height="220" style="border-radius: 15px; border: 6px solid #333333; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4); background: linear-gradient(135deg, #f0f0f0, #e0e0e0);"/>-->
 </p>
 
 
