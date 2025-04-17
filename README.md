@@ -9,7 +9,7 @@
 
 - 🔭 I’m a passionate developer , currently based in the **Bay Area, California**  
 - 💻 I work mostly with **Java, JavaScript, C, and C++**
-- 💬 Ask me about **Java
+- 💬 Ask me about **Java**
 - 📫 Reach me at: [dhitalsangharsha@gmail.com](mailto:dhitalsangharsha@gmail.com)
 <!-- 🌍 Visit my website: [sangharshadhital.io](https://sangharshadhital.io) -->
 
