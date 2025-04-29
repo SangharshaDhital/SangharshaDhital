@@ -6,7 +6,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <b>👁 My Profile Visitors</b><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SangharshaDhital.SangharshaDhital" alt="Profile Views" />
+</p>
 - 🔭 I’m a passionate developer , currently based in the **Bay Area, California**  
 - 💻 I work mostly with **Java, JavaScript, C, and C++**
 - 💬 Ask me about **Java**
