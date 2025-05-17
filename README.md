@@ -1,6 +1,6 @@
 <!--# [![MasterHead](https://user-images.githubusercontent.com/125123604/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif)](https://sangharshadhital.io)--><h1 align="center">Hi there, I'm Sangharsha Dhital 👋</h1>
 <h3 align="center">Software Developer | Java Enthusiast | Tech Explorer | Creative Coder</h3>
-<h4 align="center">Loves humor more than assembly code.</h4>
+<h4 align="center">Prefers humor over assembly code</h4>
 
 
 <p align="center">
